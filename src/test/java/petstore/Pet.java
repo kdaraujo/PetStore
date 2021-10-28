@@ -94,7 +94,7 @@ public class Pet {
                 .statusCode(200)
                 .body("name", is("Nick"))
                 .body("status", is("sold"))
-                .body("tags.name", contains("sta2"))
+                .body("tags.name", contains("sta1"))
                 .body("category.name", is("cat"))
         ;
 
