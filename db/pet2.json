@@ -1,0 +1,18 @@
+{
+  "id": 1974080198,
+  "category": {
+    "id": 1,
+    "name": "cat"
+  },
+  "name": "Nick",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 2021,
+      "name": "sta1"
+    }
+  ],
+  "status": "sold"
+}
